@@ -3,7 +3,8 @@ Title: Data 303 Demo Package
 Version: 0.0.0.9000
 Authors@R: 
     person("Sadie", "Kornoelje", , "smk92@calvin.edu", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
